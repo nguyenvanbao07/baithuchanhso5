@@ -1,0 +1,14 @@
+C:\Users\VanBao\HelloWorldApp\baithu5\Phan3\obj\Debug\net10.0\Phan3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VanBao\HelloWorldApp\baithu5\Phan3\obj\Debug\net10.0\Phan3.AssemblyInfoInputs.cache
+C:\Users\VanBao\HelloWorldApp\baithu5\Phan3\obj\Debug\net10.0\Phan3.AssemblyInfo.cs
+C:\Users\VanBao\HelloWorldApp\baithu5\Phan3\obj\Debug\net10.0\Phan3.csproj.CoreCompileInputs.cache
+C:\Users\VanBao\HelloWorldApp\baithu5\Phan3\bin\Debug\net10.0\Phan3.exe
+C:\Users\VanBao\HelloWorldApp\baithu5\Phan3\bin\Debug\net10.0\Phan3.deps.json
+C:\Users\VanBao\HelloWorldApp\baithu5\Phan3\bin\Debug\net10.0\Phan3.runtimeconfig.json
+C:\Users\VanBao\HelloWorldApp\baithu5\Phan3\bin\Debug\net10.0\Phan3.dll
+C:\Users\VanBao\HelloWorldApp\baithu5\Phan3\bin\Debug\net10.0\Phan3.pdb
+C:\Users\VanBao\HelloWorldApp\baithu5\Phan3\obj\Debug\net10.0\Phan3.dll
+C:\Users\VanBao\HelloWorldApp\baithu5\Phan3\obj\Debug\net10.0\refint\Phan3.dll
+C:\Users\VanBao\HelloWorldApp\baithu5\Phan3\obj\Debug\net10.0\Phan3.pdb
+C:\Users\VanBao\HelloWorldApp\baithu5\Phan3\obj\Debug\net10.0\Phan3.genruntimeconfig.cache
+C:\Users\VanBao\HelloWorldApp\baithu5\Phan3\obj\Debug\net10.0\ref\Phan3.dll
